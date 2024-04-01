@@ -1,17 +1,40 @@
-# map
+# Flutter Map Demo Application
 
-A new Flutter project.
+This Flutter application demonstrates how to integrate Open Street Map in a Flutter app using the `flutter_map` package.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to build and run the application on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have Flutter installed on your machine. For installation instructions, refer to the [Flutter documentation](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Flutter_Map" 
+### Installation
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/sanu00007/Flutter_Map.git
+```
+2. Navigate to the project directory:
+```
+cd map
+```
+3.Install dependencies:
+```
+flutter pub get
+```
+4. Run using an emulator
+```
+flutter run
+```
+### Features
+
+1)Displaying Open Street Map in Flutter using the flutter_map package.
+
+2)Adding markers to the map.   
+
+### License
+
+This project is licensed under the MIT License.
